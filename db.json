@@ -1,5 +1,11 @@
 {
   "issues": [
-    { "id": 1, "name": "Wash the car", "desription": "Go to wash the car tomorrow" }
+    { "id": 1, "name": "Wash the car", "description": "Go to wash the car tomorrow" },
+    { "id": 2, "name": "Wash the dishes", "description": "Go to wash the dishes today" },
+    { "id": 3, "name": "Walk the dog", "description": "Walk the dog in the park" },
+    { "id": 4, "name": "Take the kids to school", "description": "Take the kids to school in the morning" },
+    { "id": 5, "name": "Read my book", "description": "Read more of my book before bed" },
+    { "id": 6, "name": "Wash the dog", "description": "Wash the dog after the walk" },
+    { "id": 7, "name": "Prepare dinner", "description": "Prepare dinner for the family" }
   ]
 }
